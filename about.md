@@ -4,14 +4,14 @@ title: About
 permalink: /about/
 ---
 
-<img src="{{ site.baseurl }}/assets/profile-placeholder.gif" title="Profile Picture" class="profile">
+<!--<img src="{{ site.baseurl }}/assets/profile-placeholder.gif" title="Profile Picture" class="profile">-->
 
-Centrarium is a custom theme for Jekyll, made by [Ben Centra][bencentra] for his own blog. He'd be humbled if you liked it enough to use it as well! Installation and configuration instructions can be found in the [GitHub repository](https://github.com/bencentra/centrarium).
+### About Black Bear
 
-This page is a good place to write about yourself, your project, your product, or whatever it is your site is for. You can replace the image above, or you can get rid of it entirely. 
+Black Bear is a build project by [Blkwk][Blkwk]. The "Black Bear" is a 2016 Jeep Wrangler Unlimited, Black Bear Edition that is essentially being built by people that know very little about Jeeps in general, especially not the Wrangler. We can't guarantee that anything that we do to this vehicle will be correct, function well or even look good. But dammit, we're gonna try. Oh, did we mention that this is a DD?
 
-You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/). And you can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+### About Blkwk
 
-[centrarium]: https://github.com/bencentra/centrarium
-[bencentra]: http://bencentra.com
-[jekyll]: https://github.com/jekyll/jekyll
+[Blkwk][Blkwk] is a DIY garage in Northwest Indiana. Not bound by usual build rules in that there usually isn't much of a budget and little is known about projects beforehand - it's sort of flying by the seat of your pants projects, instructed by others from the internet. We're talking forum DIYs and Youtube, mostly. Because you'd be surprised of how much of a shade tree mechanic you can be with only help from strangers online. Some of the things that are done in these builds aren't the brightest, but at least they'll be somewhat entertaining and honest.
+
+[Blkwk]: https://blkwk.com

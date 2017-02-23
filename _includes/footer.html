@@ -2,24 +2,18 @@
 
   <div class="wrapper">
 
-    <h3 class="footer-heading">{{ site.title }}</h3>
-
     <div class="site-navigation">
 
-      <p><strong>Site Map</strong></p>
-      <ul class="pages">
-        {% for page in site.pages %}
-        {% if page.title and page.main_nav != false %}
-          <li class="nav-link"><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
-        {% endif %}
-        {% endfor %}
-      </ul>
+      <h4>{{ site.title }}</h4>
+      <p class="text">{{ site.description }}</p>
+      <p class="rss-subscribe text"><strong>Subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></strong></p>
     </div>
 
     <div class="site-contact">
 
       <p><strong>Contact</strong></p>
       <ul class="social-media-list">
+        <li class="desc">Questions about the build? Want to give us a high five? Call us a bunch of tools? Super! You can go here:</li>
         <li>
           <a href="mailto:{{ site.email }}">
             <i class="fa fa-envelope-o"></i>
@@ -42,8 +36,14 @@
     </div>
 
     <div class="site-signature">
-      <p class="rss-subscribe text"><strong>Subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></strong></p>
-      <p class="text">{{ site.description }}</p>
+      <p><strong>Site Map</strong></p>
+      <ul class="pages">
+        {% for page in site.pages %}
+        {% if page.title and page.main_nav != false %}
+          <li class="nav-link"><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
+        {% endif %}
+        {% endfor %}
+      </ul>
     </div>
 
   </div>
