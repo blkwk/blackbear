@@ -1,6 +1,6 @@
 ---
 layout: post
-title: History Lesson
+title: History Lesson, Part 1
 date: 2017-02-22 10:00
 categories: General
 published: true
