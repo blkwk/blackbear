@@ -9,6 +9,8 @@ Black Bear. She doesn't have a proper name or a build journal yet, so the proper
 
 <hr />
 
+### A sorded history
+
 I'll confess: I'm not really a Jeeper. I haven't grown up with a family that wrenches on anything, let along a CJ5 or even a TJ. I grew up in a Chevy household and didn't perform any substantial modifications to a vehicle until I was out of college. And even then, I had help from people that knew what they were doing, so it was a pretty non-issue if I were to have a problem along the way. At one point, I decided that it was a good idea to start looking for a late model Jeep Cherokee to screw around with.
 
 I managed to locate a 1997 white Cherokee (XJ) on a small car lot on the south side of Indianapolis at the end of one of those delightful early summer weeks. It was priced fairly, compared to some of the newer '00 or '01 models that had fewer miles and less battle scars. I managed to play phone tag with the owner of the small car lot until a Saturday, and he assured me that he would be around for me to take a look at the inside of the XJ and take it for a spin. Well, that was a lie. But, he did call me back and and let my voicemail know that he could meet up with me on Sunday instead.
@@ -21,6 +23,6 @@ She started off as a stock Cherokee. Jeep steel wheels with mismatched tires, ba
 
 <img src="http://i285.photobucket.com/albums/ll73/ickfoo/Jeep%20XJ/XJ_side_zpsqzep8vhr.jpg" width="100%" />
 
-It wasn't an easy journey to get to this point, however.
+It wasn't an easy journey to get to this point, however. In fact, it probably should have turned me off from ever owning one of these shitboxes again in the future. Still, I loved it, so I wanted to make it better.
 
 Continue in [Part 2](/general/2017/02/23/history_lesson_pt2.html).
