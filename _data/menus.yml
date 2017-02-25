@@ -1,1 +1,6 @@
---- {}
+menus:
+	- header
+	- main:
+		- title: Title
+			identifier: title
+			url: url
