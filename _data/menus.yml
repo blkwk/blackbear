@@ -1,5 +1,6 @@
+---
 menus:
-    main:
-        title: Title
-        identifier: title
-        url: url
+  main:
+    title: Title
+    identifier: title
+    url: url
