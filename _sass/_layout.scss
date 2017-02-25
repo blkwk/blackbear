@@ -70,6 +70,13 @@ pre code.hljs {
   }
 }
 
+.note {
+	margin-top: 40px;
+	padding: 15px 25px;
+	background: lighten($orange, 55%);
+	b, strong { text-transform: uppercase; }
+}
+
 .site-header-container, .post-header-container {
 	width: 100%;
 	text-align: center;

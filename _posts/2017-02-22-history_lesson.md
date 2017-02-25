@@ -25,4 +25,6 @@ She started off as a stock Cherokee. Jeep steel wheels with mismatched tires, ba
 
 It wasn't an easy journey to get to this point, however. In fact, it probably should have turned me off from ever owning one of these shitboxes again in the future. Still, I loved it, so I wanted to make it better.
 
-Continued in [Part 2](/general/2017/02/23/history_lesson_pt2.html).
+<div class="note">
+<b>Note:</b> This post is part of a series. Continue along in <a href="/general/2017/02/24/history_lesson_pt2.html">Part 2</a>.
+</div>
