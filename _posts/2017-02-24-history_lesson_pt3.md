@@ -1,7 +1,7 @@
 ---
 layout: post
 title: History Lesson, Part 3
-date: 2017-02-25 20:00
+date: 2017-02-24 23:00
 author: Jason
 categories: General
 ---
