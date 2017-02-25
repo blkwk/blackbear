@@ -21,3 +21,29 @@
     </nav>
   </div>
 </header>
+<header>
+  <nav>
+  <ul>
+    {% for menus in site.data.menus %}
+      {% if menus.subcategories != null %}
+        <li>
+          <a href="{{ site.url }}{{ menus.url }}">{{ menus.title }} ▼</a>
+          <ul>
+          {% for subcategory in menus.subcategories %}
+            <li><a href="{{ site.url }}{{ subcategory.subhref }}">{{ subcategory.subtitle }}</a></li>
+          {% endfor %}
+          </ul>
+        </li>
+      {% elsif menus.title == page.title %}
+         <li class="active">
+           <a href="{{ menus.url }}">{{ menus.title }}</a>
+         </li>
+      {% else %} 
+        <li>
+          <a href="{{ site.url }}{{ menus.href }}">{{ menus.title }}</a>
+        </li>
+      {% endif %}
+    {% endfor %}
+  </ul>
+</nav>
+</header>

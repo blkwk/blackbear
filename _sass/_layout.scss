@@ -427,7 +427,7 @@ pre code.hljs {
 			margin-right: 0;
 		}
 		@include media ($tablet) {
-			@include span-columns(4);
+			@include span-columns(8);
 			margin-top: 0;
 		}
 		font-size: 0.9em;
