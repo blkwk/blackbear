@@ -1,5 +1,12 @@
----
-main:
-  title: Title
-  identifier: title
-  url: url
+- title: "About"
+  href: "/about/"
+
+- title: "Posts"
+  href: "/posts/"
+
+#- title: "Snippets"
+#  subcategories:
+#    - subtitle: "Example1"
+#      subhref: "#"
+#    - subtitle: "Example2"
+#      subhref: "#"

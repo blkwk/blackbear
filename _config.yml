@@ -44,7 +44,7 @@ jekyll-archives:
 # disqus_shortname: bencentra
 
 # Google analytics
-# ga_tracking_id: "UA-XXXX-1"
+ga_tracking_id: "UA-92661210-1"
 
 # Category descriptions (for archive pages)
 descriptions:
@@ -52,7 +52,7 @@ descriptions:
     desc: "Information, history and other things that make sense."
 
   - cat: Build
-    desc: "Posts describing the stuff that we're doing on the Jeep."
+    desc: "Posts describing the stuff that we're doing on the Jeep. Or rather "mods", if you prefer."
 
   - cat: Photos
     desc: "Documentation of places that we've taken the Jeep and other randomness."

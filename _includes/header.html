@@ -12,9 +12,24 @@
     </a>
     <nav role="navigation">
       <ul id="js-navigation-menu" class="navigation-menu show">
-        {% for page in site.pages %}
-          {% if page.title and page.main_nav != false %}
-          <li class="nav-link"><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
+        {% for menus in site.data.menus %}
+          {% if menus.subcategories != null %}
+            <li class="nav-link">
+              <a href="{{ site.url }}{{ menus.url }}">{{ menus.title }} &#x25BC;</a>
+              <ul>
+              {% for subcategory in menus.subcategories %}
+                <li><a href="{{ site.url }}{{ subcategory.subhref }}">{{ subcategory.subtitle }}</a></li>
+              {% endfor %}
+              </ul>
+            </li>
+          {% elsif menus.title == page.title %}
+            <li class="nav-link active">
+              <a href="{{ menus.url }}">{{ menus.title }}</a>
+            </li>
+          {% else %} 
+            <li class="nav-link">
+              <a href="{{ site.url }}{{ menus.href }}">{{ menus.title }}</a>
+            </li>
           {% endif %}
         {% endfor %}
       </ul>
